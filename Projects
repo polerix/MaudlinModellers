@@ -3,7 +3,11 @@ Project Name,Category,Primary Tech/Materials,Current Focus
 ---
 
 C=64 Cyberdeck,Retro-Mod / Computing,"Raspberry Pi 5, Mechanical Keyboard, LCD",Fitment & Power Mgmt
+https://github.com/polerix/c64upgrade
 
 ---
 
 Voight-Kampff Prop,Prop Replica / SFX,"Leather, Bellows, Biometric Sensors",Aesthetic Weathering
+https://github.com/polerix/VK_Terminal
+git clone git@github.com:TrevorGertridge/BladeRunnerVK.git
+
