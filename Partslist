@@ -68,6 +68,7 @@ A consolidated list of electronics parts, development boards, and hardware compo
 | **MG90S Micro Servo** | 1 | Metal Gear Servo (High Torque). | [PID 1143](https://www.adafruit.com/product/1143) |
 | **6V Gear Motor** | 1 | Slow speed (10 RPM). High torque. | [PID 3777](https://www.adafruit.com/product/3777) |
 | **Motor Shield** | 1 | L293D (NodeMCU/ESP8266 compatible). | N/A |
+| **Adafruit CRICKIT HAT for Raspberry Pi** | 2 | [PID: 3957](https://www.adafruit.com/product/3957) |
 | **CR2032 Battery Holder** | 1 | Switched holder with leads. | [PID 653](https://www.adafruit.com/product/653) |
 
 ## 🛠️ Hardware & Prototyping
