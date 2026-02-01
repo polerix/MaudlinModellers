@@ -1,0 +1,84 @@
+# Electronics Inventory
+
+A consolidated list of electronics parts, development boards, and hardware components currently in stock.
+
+## 🧠 Compute & Development Boards
+
+| Item | Count | Description / Notes | Adafruit Equiv. |
+| :--- | :---: | :--- | :--- |
+| **Raspberry Pi 5** | 2 | Latest gen. Requires 27W USB-C PSU & active cooling. | [PID 5812](https://www.adafruit.com/product/5812) |
+| **Raspberry Pi 4 Model B** | 2 | Standard versatile single-board computer. | [PID 4296](https://www.adafruit.com/product/4296) |
+| **Raspberry Pi 3 Model B** | 1 | Legacy board, good for lighter tasks (OctoPrint, etc). | [PID 3055](https://www.adafruit.com/product/3055) |
+| **Raspberry Pi Pico (RP2040)** | 1 | Microcontroller board. (Part of the Round LCD Dev Board). | [PID 4864](https://www.adafruit.com/product/4864) |
+| **ESP32 VGA32 (LilyGo)** | 1 | ESP32 module with VGA/Mouse/Keyboard ports. | N/A |
+
+## 🖥️ Displays
+
+| Item | Count | Description / Notes | Adafruit Equiv. |
+| :--- | :---: | :--- | :--- |
+| **1.8" TFT LCD Display** | 1 | **SPI Interface** (128x160). ST7735 Driver. | [PID 358](https://www.adafruit.com/product/358) |
+| **1.28" Round LCD (GC9A01)** | 2 | 1x Bare module, 1x Mounted on RP2040 board. | [PID 5057](https://www.adafruit.com/product/5057) |
+| **7" HDMI Display** | 1 | 1024x600 Resolution. Generic driver board. | [PID 2353](https://www.adafruit.com/product/2353) |
+| **5" HDMI Touchscreen** | 1 | HDMI interface with touch. | [PID 2232](https://www.adafruit.com/product/2232) |
+| **3.5" Pi Touchscreen** | 1 | GPIO Interface (fits directly on Pi headers). | [PID 2441](https://www.adafruit.com/product/2441) |
+| **1.54" LCD "Game Hat"** | 1 | Console-style hat for Raspberry Pi. | [PID 3531](https://www.adafruit.com/product/3531) |
+
+## 📻 Audio & Radio
+
+| Item | Count | Description / Notes | Adafruit Equiv. |
+| :--- | :---: | :--- | :--- |
+| **Bluetooth 5.0 Receiver** | 2 | Standalone decoding board (PCB). | N/A |
+| **20W Stereo Amplifier** | 1 | Class D Amp (XY-AP15H). 10W-200W range. | [PID 1752](https://www.adafruit.com/product/1752) |
+| **LM3915 VU Meter Kit** | 1 | Audio level visualizer (10 LEDs). | N/A |
+| **Ground Loop Isolator** | 1 | Removes audio "hum" (Besign). | N/A |
+| **Headphone Splitter** | 1 | 3.5mm Male to 2x Female Y-cable. | N/A |
+
+## 🔌 Adapters & Breakouts (HDMI / USB)
+
+| Item | Count | Description / Notes | Adafruit Equiv. |
+| :--- | :---: | :--- | :--- |
+| **HDMI Male Plug (Straight)** | 4 | DIY Ribbon Cable Adapter. | [PID 3548](https://www.adafruit.com/product/3548) |
+| **HDMI Female Socket** | 3 | DIY Ribbon Cable Adapter. | [PID 3551](https://www.adafruit.com/product/3551) |
+| **Micro HDMI Male** | 3 | DIY Ribbon Cable Adapter. | [PID 3556](https://www.adafruit.com/product/3556) |
+| **HDMI Right Angle Male** | 1 | "Bendy" R-Bend plug. | [PID 3549](https://www.adafruit.com/product/3549) |
+| **USB Type-C Male** | 4 | DIY Ribbon Cable Adapter. | [PID 4108](https://www.adafruit.com/product/4108) |
+| **USB Type-A Male** | 3 | DIY Ribbon Cable Adapter. | [PID 4109](https://www.adafruit.com/product/4109) |
+| **Micro USB Male** | 3 | 2x Straight, 1x 90° Down. | [PID 4103](https://www.adafruit.com/product/4103) |
+| **Ribbon Cable (10cm)** | 2 | For DIY HDMI/USB adapters. | [PID 3560](https://www.adafruit.com/product/3560) |
+| **Ribbon Cable (30cm)** | 5 | For DIY HDMI/USB adapters. | [PID 3562](https://www.adafruit.com/product/3562) |
+| **Ribbon Cable (50cm)** | 3 | For DIY HDMI/USB adapters. | [PID 3563](https://www.adafruit.com/product/3563) |
+
+## 🍓 Raspberry Pi Accessories
+
+| Item | Count | Description / Notes | Adafruit Equiv. |
+| :--- | :---: | :--- | :--- |
+| **Pi 5 USB-to-UART Cable** | 1 | Debugging cable for Pi 5. | [PID 954](https://www.adafruit.com/product/954) |
+| **Pi 5 RTC Battery Box** | 1 | External battery holder for Real Time Clock. | N/A |
+| **Pi Zero USB Stem** | 1 | PCB to convert Pi Zero to USB Dongle. | [PID 2909](https://www.adafruit.com/product/2909) |
+| **GPIO T-Type Expansion** | 1 | Breakout board + 40-pin ribbon cable. | [PID 2028](https://www.adafruit.com/product/2028) |
+| **Rackmount Power Supply** | 1 | GeeekPi 4-Channel 5V module. | N/A |
+| **Camera Module** | 1 | "Eye Contact" Center Screen Webcam. | N/A |
+
+## ⚡ Power & Motors
+
+| Item | Count | Description / Notes | Adafruit Equiv. |
+| :--- | :---: | :--- | :--- |
+| **24V Li-ion Battery** | 1 | Talentcell PB240A1 (22400mAh). | [PID 354](https://www.adafruit.com/product/354) |
+| **12V Li-ion Battery** | 1 | Talentcell (3000mAh). | N/A |
+| **MG90S Micro Servo** | 1 | Metal Gear Servo (High Torque). | [PID 1143](https://www.adafruit.com/product/1143) |
+| **6V Gear Motor** | 1 | Slow speed (10 RPM). High torque. | [PID 3777](https://www.adafruit.com/product/3777) |
+| **Motor Shield** | 1 | L293D (NodeMCU/ESP8266 compatible). | N/A |
+| **CR2032 Battery Holder** | 1 | Switched holder with leads. | [PID 653](https://www.adafruit.com/product/653) |
+
+## 🛠️ Hardware & Prototyping
+
+| Item | Count | Description / Notes | Adafruit Equiv. |
+| :--- | :---: | :--- | :--- |
+| **Breadboard (400 Point)** | 3 | Elegoo Half-size with power rails. | [PID 64](https://www.adafruit.com/product/64) |
+| **Heat-Set Insert Tool** | 1 | Soldering iron tip for brass inserts. | N/A |
+| **Threaded Inserts Kit** | 1 | 300pcs Brass Inserts (M2-M6). | [PID 4255](https://www.adafruit.com/product/4255) |
+| **M4 Screw Kit** | 1 | 360pcs Alloy Steel (Black). | N/A |
+| **Metric Screw Kit** | 1 | 1760pcs (M2, M3, M4, M5) Assortment. | [PID 3299](https://www.adafruit.com/product/3299) |
+| **CH341A Programmer** | 1 | BIOS/EEPROM Flasher + Test Clip. | N/A |
+| **Cable Testers** | 2 | 1x HDMI Breakout, 1x DT3 USB Tester. | N/A |
+| **Jumper Wires** | 1 | 240pcs Dupont (M-M, M-F, F-F). | [PID 1957](https://www.adafruit.com/product/1957) |
